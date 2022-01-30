@@ -1,0 +1,6 @@
+{
+    "vsintellicode.python.completionsEnabled": false,
+    "vsintellicode.java.completionsEnabled": false,
+    "vsintellicode.sql.completionsEnabled": false,
+    "reactSnippets.settings.semiColons": false
+}
